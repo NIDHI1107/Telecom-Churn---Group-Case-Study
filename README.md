@@ -1,4 +1,4 @@
-# Telecom-Churn---Group-Case-Study
+# Telecom-Churn-Case-Study
 ### Problem Statement
  
 
